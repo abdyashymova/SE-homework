@@ -1,5 +1,5 @@
 body { 
-	background: #fff;
+	background: url("https://images.unsplash.com/photo-1508105859382-b487af436eff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80") ;
 	height:150%;
 
 
@@ -71,7 +71,7 @@ nav {
 	body {
 		padding: 30px; 
 		font-family: "Helvetica Neue", helvetica, arial; 
-		background: url('https://subtlepatterns.com/patterns/white_carbonfiber.png');
+		background: white;
 	}
 
 	#container {
@@ -213,8 +213,25 @@ nav {
 	min-height: 600px;
 	padding-bottom:60px;
 	text-shadow: 1px 1px 1px #fff;
-}
 
+}
+#left-content{
+	height: 500px;
+	width: 100%;
+	background: url("https://images.unsplash.com/photo-1533326021152-7ae7008635de?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
+
+}
+#jama{
+	background-color: rgba(255, 255, 255, .9);
+	height: 500px;
+
+}
+.container_16{
+	width: 100%;
+}
+#container{
+	width: 100%;
+}
 #mission {
 	margin: 40px 0;
 }
@@ -584,3 +601,4 @@ float: left;
 margin: 0 20px 20px 0;
 opacity: 1;
 }
+
